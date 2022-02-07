@@ -55,7 +55,7 @@ Use the list of Linq methods for help
             Console.WriteLine("*************NOT IMPRESSED?!?!:**************");
             Console.WriteLine("********How about by LENGTH? (Jerk!)*********");
 
-            IOrderedEnumerable<string> lengthGames = games.OrderBy(x => x.Length);
+            var lengthGames = games.OrderBy(x => x.Length);
             foreach (string g in lengthGames)
             {
                 Console.WriteLine(g);

@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{8C4B0507-8B02-4AB3-8BDB-CF29989950C5}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="LinqExercise/Program.cs">
     <Files>
-      <File FileName="LinqExercise/Program.cs" Line="62" Column="14" />
+      <File FileName="LinqExercise/Program.cs" Line="46" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PracticeLinq" expanded="True" selected="True">
-            <Node name="PracticeLinq" expanded="True" />
+          <Node name="PracticeLinq" expanded="True">
+            <Node name="PracticeLinq" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

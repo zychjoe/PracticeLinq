@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/PracticeLinq.csproj": {}
+    "/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/PracticeLinq.csproj": {}
   },
   "projects": {
-    "/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/PracticeLinq.csproj": {
+    "/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/PracticeLinq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/PracticeLinq.csproj",
+        "projectUniqueName": "/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/PracticeLinq.csproj",
         "projectName": "PracticeLinq",
-        "projectPath": "/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/PracticeLinq.csproj",
+        "projectPath": "/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/PracticeLinq.csproj",
         "packagesPath": "/Users/joe/.nuget/packages/",
-        "outputPath": "/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/obj/",
+        "outputPath": "/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/joe/.config/NuGet/NuGet.Config"
         ],

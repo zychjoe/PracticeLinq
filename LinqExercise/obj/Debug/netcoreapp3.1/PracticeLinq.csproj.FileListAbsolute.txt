@@ -1,0 +1,13 @@
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/bin/Debug/netcoreapp3.1/PracticeLinq.deps.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/bin/Debug/netcoreapp3.1/PracticeLinq.runtimeconfig.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/bin/Debug/netcoreapp3.1/PracticeLinq.runtimeconfig.dev.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/bin/Debug/netcoreapp3.1/PracticeLinq.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/bin/Debug/netcoreapp3.1/PracticeLinq.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/obj/Debug/netcoreapp3.1/PracticeLinq.csproj.AssemblyReference.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/obj/Debug/netcoreapp3.1/PracticeLinq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/obj/Debug/netcoreapp3.1/PracticeLinq.AssemblyInfoInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/obj/Debug/netcoreapp3.1/PracticeLinq.AssemblyInfo.cs
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/obj/Debug/netcoreapp3.1/PracticeLinq.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/obj/Debug/netcoreapp3.1/PracticeLinq.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/obj/Debug/netcoreapp3.1/PracticeLinq.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/PracticeLinq/LinqExercise/obj/Debug/netcoreapp3.1/PracticeLinq.genruntimeconfig.cache
