@@ -1,0 +1,13 @@
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/obj/Debug/netcoreapp3.1/LinqExercise.csproj.AssemblyReference.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/obj/Debug/netcoreapp3.1/LinqExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/obj/Debug/netcoreapp3.1/LinqExercise.AssemblyInfoInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/obj/Debug/netcoreapp3.1/LinqExercise.AssemblyInfo.cs
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/obj/Debug/netcoreapp3.1/LinqExercise.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/bin/Debug/netcoreapp3.1/LinqExercise.deps.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/bin/Debug/netcoreapp3.1/LinqExercise.runtimeconfig.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/bin/Debug/netcoreapp3.1/LinqExercise.runtimeconfig.dev.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/bin/Debug/netcoreapp3.1/LinqExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/bin/Debug/netcoreapp3.1/LinqExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/obj/Debug/netcoreapp3.1/LinqExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/obj/Debug/netcoreapp3.1/LinqExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/LinqExercise/LinqExercise/obj/Debug/netcoreapp3.1/LinqExercise.genruntimeconfig.cache
